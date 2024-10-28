@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "671ed17d47382556be24f201"
+  },
+  "nombreSuperHeroe": "Spiderman",
+  "nombreReal": "Peter Parker",
+  "edad": 26,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Radioactiva",
+  "poderes": [
+    "Trepar paredes",
+    "Sentido arácnido",
+    "Super fuerza",
+    "Agilidad"
+  ],
+  "aliados": [
+    "Ironman"
+  ],
+  "enemigos": [
+    "Duende Verde"
+  ]
+}]
